@@ -49,7 +49,7 @@ Here are some project areas I love working on:
 ##  Contact Me
 
 -  [LinkedIn](https://linkedin.com/in/muhammad-abdullah-majid-bb229826b)
--  [Portfolio]((https://abdullah-protfolio.vercel.app/))
+-  [Portfolio](https://abdullah-protfolio.vercel.app)
 -  Email: abdullah12151218@gmail.com
 
 ---
