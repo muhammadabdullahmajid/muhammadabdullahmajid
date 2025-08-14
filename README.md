@@ -1,6 +1,6 @@
-#  Hello, I'm Muhammad Abdullah Majid!
+##  Hello, I'm Muhammad Abdullah Majid!
 
-Welcome to my GitHub profile! I'm a passionate and self-driven developer who loves building meaningful and scalable solutions. Whether it's web, mobile, or automation — I enjoy solving problems with clean and efficient code.
+### Welcome to my GitHub profile! I'm a passionate and self-driven developer who loves building meaningful and scalable solutions. Whether it's web, mobile, or automation — I enjoy solving problems with clean and efficient code.
 ---
 ##  About Me
 -  Currently working on sharpening my full-stack development skills  
