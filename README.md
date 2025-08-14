@@ -6,8 +6,6 @@ Welcome to my GitHub profile! I'm a passionate and self-driven developer who lov
 -  Currently working on sharpening my full-stack development skills  
 -  Learning new frameworks, tools, and cloud technologies  
 -  I enjoy collaborating on open-source and personal projects  
--  Always exploring new technologies and challenges  
--  Based on Planet Earth, working remotely
 ---
 ##  Skills & Technologies
 ### Languages:
@@ -34,7 +32,6 @@ Here are some project areas I love working on:
 - ✅ Portfolio websites
 - ✅ Automation scripts
 - ✅ APIs and microservices
-> Want to collaborate? Reach out and let’s build something great together!
 ---
 ##  Contact Me
 -  [LinkedIn](https://linkedin.com/in/muhammad-abdullah-majid-bb229826b)
